@@ -1,0 +1,26 @@
+{
+  "name": "aws-lex",
+  "version": "0.0.1",
+  "description": "AWS Lex - Conversational interfaces for your applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molinto/aws-lex.git"
+  },
+  "keywords": [
+    "aws",
+    "lex",
+    "lambda",
+    "bot",
+    "rekognition"
+  ],
+  "author": "Sharry Stowell <sharry@molinto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/molinto/aws-lex/issues"
+  },
+  "homepage": "https://github.com/molinto/aws-lex#readme"
+}
