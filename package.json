@@ -1,6 +1,6 @@
 {
   "name": "aws-lex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AWS Lex - Conversational interfaces for your applications",
   "main": "index.js",
   "scripts": {
